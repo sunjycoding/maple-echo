@@ -1,0 +1,17 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /maple-echo/api
+
+spring:
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      location: /answers
+      max-file-size: 5MB
+      max-request-size: 5MB
+
+bot:
+  qq-number:
+  password:
