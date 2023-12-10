@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.sunjy</groupId>
     <artifactId>maple-echo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>maple-echo</name>
     <description>QQ Bot for MapleStory</description>
 
